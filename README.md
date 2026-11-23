@@ -1,134 +1,125 @@
-￼ ￼ 
-￼ ￼ 
+<!-- ===================================================== --><!--              MAN YUANRUI | GITHUB PROFILE             --><!--                  CYBERPUNK EDITION                    --><!-- ===================================================== --><div align="center">"> MAN YUANRUI_"
 
+ASPIRING CYBERSECURITY ENGINEER
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+space...;Cybersecurity+%7C+Programming+%7C+Technology;Learning+Today.+Securing+Tomorrow.;Building+Skills+One+Commit+at+a+Time." alt="Typing SVG" /><br/>""GitHub" (https://img.shields.io/badge/GitHub-myrui2025--glitch-181717?style=for-the-badge&logo=github)" (https://github.com/myrui2025-glitch)
+""Cybersecurity" (https://img.shields.io/badge/Field-Cybersecurity-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=white)" (https://github.com/myrui2025-glitch)
+""Status" (https://img.shields.io/badge/Status-Currently%20Learning-8A2BE2?style=for-the-badge)" (https://github.com/myrui2025-glitch)
 
-￼ ￼ ￼ ￼ ￼ 
+<br/>"Explore technology. Understand security. Build the future."
 
-👨‍💻 ABOUT ME
+</div>---
 
-Name: Man Yuanrui University: Universiti Teknologi Malaysia (UTM) Major: Cyber Security Location: Malaysia Career Goal: Cybersecurity Engineer Currently: Learning and Building 
+"01 // ABOUT ME"
 
-Hello! I'm Man Yuanrui, a Cyber Security undergraduate at Universiti Teknologi Malaysia (UTM).
+Hello! I'm Man Yuanrui, a Cyber Security student at Universiti Teknologi Malaysia (UTM).
 
-I'm passionate about programming, computer systems, and cybersecurity. My current focus is building a solid foundation in computer science while exploring practical security concepts.
+I'm passionate about programming, computer systems, and cybersecurity. Currently, I'm building my technical foundation through academic learning and hands-on practice.
 
-🎓 Cyber Security undergraduate at UTM.
+My goal is to grow into a skilled Cybersecurity Engineer, continuously exploring new technologies and developing practical problem-solving abilities.
 
-💻 Learning C++, HTML, CSS, and Git.
+- 🎓 Education: Universiti Teknologi Malaysia (UTM)
+- 🔐 Academic Field: Cyber Security
+- 💻 Programming: C++, HTML, CSS
+- 🛠️ Tools: Git
+- 🎯 Career Goal: Cybersecurity Engineer
+- 🌱 Currently improving my programming and cybersecurity fundamentals.
+- ⚡ Motto: Learn continuously. Build consistently. Stay curious.
 
-🔐 Interested in information security and system protection.
+---
 
-🧠 Developing analytical thinking and problem-solving skills.
+"02 // TECHNICAL SKILLS"
 
-🚀 Working towards becoming a Cybersecurity Engineer.
+Programming Languages
 
-"Understand the system. Identify the risks. Build a safer digital world."
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,html,css" alt="Programming Languages"/>
+</p>Development Tools
 
-🛠️ TECHNICAL SKILLS
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+</p>Current Learning Areas
 
-Programming & Web Development
+Category| Focus
+Programming| C++ fundamentals and problem solving
+Web Development| HTML and CSS
+Version Control| Git and GitHub
+Cybersecurity| Security fundamentals
+Computer Science| Discrete Structures and Digital Logic
 
-￼ 
+---
 
-Development Tools
+"03 // RESEARCH INTERESTS"
 
-￼ 
+Areas I am interested in exploring and developing my knowledge:
 
-Core Knowledge & Learning Areas
+- 🔐 Cybersecurity Fundamentals
+- 🛡️ Network Security
+- 🔍 Security Analysis and Monitoring
+- 💻 Secure Programming
+- ⚙️ Security Automation
 
-AreaCurrent FocusC++Basic programmingHTMLWeb structureCSSWeb stylingGitVersion controlLog AnalysisBasic log analysisSecure CodingSecurity awarenessSecurity AutomationExploring automation concepts 
+These are learning interests, not claimed research publications or professional specializations.
 
-🎓 ACADEMIC BACKGROUND
+---
 
-Universiti Teknologi Malaysia (UTM)
+"04 // FEATURED PROJECTS"
 
-Cyber Security Undergraduate
+<div align="center">🚀 My Development Portfolio
 
-Currently studying and developing knowledge in:
+</div>Professional Development Portfolio
 
-Technology and Information System
+A personal portfolio repository for documenting my learning journey, technical development, and academic progress.
 
-Discrete Structure
+""Repository" (https://img.shields.io/badge/Explore-My%20Portfolio-00E5FF?style=for-the-badge&logo=github)" (https://github.com/myrui2025-glitch/professional-development-portfolio)
 
-Programming Technique
+More projects coming soon...
 
-Digital Logic
+I will continue adding programming exercises, academic projects, and cybersecurity-related practical work as I develop my skills.
 
-🔬 RESEARCH INTERESTS
+---
 
-My areas of interest include:
+"05 // GITHUB STATISTICS"
 
-🔐 Network Security
+<div align="center">GitHub Overview
 
-🛡️ Ethical Hacking and Penetration Testing
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=myrui2025-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8A2BE2&text_color=FFFFFF&count_private=true" alt="GitHub Statistics"/>Most Used Languages
 
-🔍 Digital Forensics and Log Analysis
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrui2025-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Top Languages"/>Contribution Streak
 
-🔒 Cryptography
+<img src="https://streak-stats.demolab.com?user=myrui2025-glitch&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=8A2BE2&currStreakLabel=00E5FF" alt="GitHub Streak"/>Contribution Activity
 
-💻 Secure Software Development
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=myrui2025-glitch&bg_color=0D1117&color=00E5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/></div>---
 
-⚙️ Security Automation
+"06 // ACHIEVEMENTS & MILESTONES"
 
-🚀 PROJECTS & PORTFOLIO
+- 🎓 Pursuing Cyber Security studies at UTM.
+- 💻 Developing programming knowledge through C++ and web technologies.
+- 🔧 Building experience with Git and GitHub.
+- 🚀 Working towards a future career in cybersecurity.
 
-Professional Development Portfolio
+Additional certifications, awards, and verified achievements will be added as they are earned.
 
-My personal portfolio documenting my academic background, technical interests, and professional development.
+---
 
-￼
+"07 // CONNECT WITH ME"
 
-Future Projects
+<div align="center">Let's connect and share knowledge about technology, programming, and cybersecurity!
 
-I'm continuing to develop my programming and cybersecurity skills.
+""GitHub" (https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)" (https://github.com/myrui2025-glitch)
 
-Future projects will focus on:
+📧 Email: YOUR_EMAIL_HERE
 
-C++ programming exercises
+🌐 GitHub: https://github.com/myrui2025-glitch
 
-Cybersecurity learning experiments
+</div>---
 
-Basic log analysis
+<div align="center">"SYSTEM STATUS: ONLINE"
 
-Security automation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:16213E,100:00E5FF&height=120&section=footer" width="100%" alt="Cyberpunk Footer"/>Thanks for visiting my digital space!
 
-Secure coding practices
+<sub>Designed & Maintained by MAN YUANRUI</sub>
 
-📊 GITHUB ANALYTICS
+<sub>© 2026 | Keep Learning · Keep Building · Keep Exploring</sub>
 
-￼ ￼ 
-
-
-
-￼ 
-
-📈 CONTRIBUTION ACTIVITY
-
-￼ 
-
-🎯 CAREER OBJECTIVE
-
-$ whoami Man Yuanrui $ cat career_goal.txt Become a Cybersecurity Engineer. Build strong programming fundamentals. Understand networks and computer systems. Explore practical cybersecurity techniques. Develop security-focused projects. Never stop learning. 
-
-I believe cybersecurity is more than just identifying vulnerabilities. It requires curiosity, critical thinking, technical knowledge, and continuous improvement.
-
-My goal is to transform what I learn academically into practical skills and meaningful projects.
-
-📫 CONNECT WITH ME
-
-￼ 
-
-
-
-￼ 
-
-
-
-Thanks for visiting my profile!
-
-ACCESS GRANTED // KEEP BUILDING // STAY CURIOUS
-
-￼ 
-
-
+</div>
